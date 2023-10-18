@@ -54,7 +54,7 @@ const button2 = document.createElement('button');
 
 // Inserting Text and Photos into element
 const p1Text = document.createTextNode('Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, unde. Fugit quas quos in ipsam laboriosam nostrum amet fuga, nihil vel placeat, excepturi alias officiis eligendi iusto quia. Doloremque distinctio sapiente sit pariatur assumenda libero provident animi culpa nam, voluptas repellat repudiandae molestias at sequi rerum incidunt eligendi illum vero?');
-const button2Text = document.createTextNode('Explore The Bank');
+const button2Text = document.createTextNode('Explore The World');
 image1.src = 'img/logo.png';
 
 // Inserting
