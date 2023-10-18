@@ -36,27 +36,6 @@ nav h1 {
     animation-iteration-count: infinite; */
 }
 
-/* @keyframes changing-h1-color {
-    0%{
-        color: #e70c0c;
-    }
-    20% {
-        color: white;
-    }
-    40% {
-        color: #e70c0c;
-    }
-    60% {
-        color: white;
-    }
-    80% {
-        color: #e70c0c;
-    }
-    100% {
-        color: white;
-    }
-} */
-
 nav ul {
     width: 20%;
     display: flex;
