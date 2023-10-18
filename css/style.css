@@ -78,6 +78,7 @@ nav ul>li:hover {
 }
 
 nav button {
+    cursor: pointer;
     background-color: transparent;
     color: white;
     width: 110px;
